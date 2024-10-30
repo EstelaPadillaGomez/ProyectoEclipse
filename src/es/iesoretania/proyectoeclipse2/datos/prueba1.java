@@ -6,11 +6,7 @@ public class prueba1 {
 		
 		System.out.println("Hola mundo!!!");
 		System.out.println("Hola mundo!!!");
-		System.out.println("Hola mundo!!!");
-		System.out.println("Hola mundo!!!");
-		
-
-		System.out.println("Hola mundo!!!");
+		System.out.println("pepejuanguille");
 
 
 	}
