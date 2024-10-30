@@ -1,6 +1,6 @@
 package es.iesoretania.proyectoeclipse2.datos;
 
-public class prueba1 {
+public class prueba3 {
 	public static void main(String[] args) {
 		
 		
